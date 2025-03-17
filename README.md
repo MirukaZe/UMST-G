@@ -8,7 +8,8 @@ This model expands the standard view of gravity by incorporating entropy as an a
 ## 📊 Key Features  
 - **Scalar Mode Analysis**: Identifies breathing modes in GW signals.  
 - **Entropy Field Modeling**: Tests the impact of information flow on spacetime curvature.  
-- **Bayesian & Prony Analysis**: Provides statistical validation of non-tensorial GW components.  
+- **Bayesian & Prony Analysis**: Provides statistical validation of non-tensorial GW components.
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MirukaZe/UMST-G/blob/main/UMST_G_01.ipynb)
 
 ## 📜 License  
 This project is licensed under the **Restricted Academic Use License**.  
